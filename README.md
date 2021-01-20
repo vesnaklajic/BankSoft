@@ -8,9 +8,9 @@
 -[] Inversion of the control, Injection of the dependances 
 
 ## Tools&&Languges:
-- ###Framework: Spring Boot 
-- ###Jpa: Hibernate
-- ###DB: Mysql
+- ### Framework: Spring Boot 
+- ### Jpa: Hibernate
+- ### DB: Mysql
 
 ##**Goal**:
 - Using Springboot anotation for manage the entites and the relations. 
